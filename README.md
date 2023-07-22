@@ -9,4 +9,11 @@ The goal of this project is to do an in-depth analysis of the dataset to gain in
 
 Kaggle: https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
 
+### Tools used
+
+- AWS services - S3, 
+- Pyspark
+- Tableau
+- SQL
+
 
