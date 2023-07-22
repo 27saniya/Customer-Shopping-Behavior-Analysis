@@ -7,6 +7,6 @@ The goal of this project is to do an in-depth analysis of the dataset to gain in
 
 ### Data Link
 
-Kaggle: (https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
+Kaggle: https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
 
 
