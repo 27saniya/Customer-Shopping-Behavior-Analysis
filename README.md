@@ -11,9 +11,19 @@ Kaggle: https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-m
 
 ### Tools used
 
-- AWS services - S3, 
+- AWS services:
+  - S3: Data Loading and Storage
+  - Glue: Data Transformation
+  - Athena: Quering
 - Pyspark
 - Tableau
 - SQL
+
+### ELT architecture
+
+![image](https://github.com/27saniya/Customer-Shopping-Behavior-Analysis/assets/101293878/3804e2d6-885d-4363-8e98-4b6b5fa17ebc)
+
+
+
 
 
