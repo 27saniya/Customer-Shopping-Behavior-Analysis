@@ -10,7 +10,13 @@ The advance in technology and the internet has led to an increasing demand for E
 
 ### Project application and impact
 
-	The consumer shopping behavior analysis is the process of discovering, interpreting, and communicating data patterns and insights related to E-commerce online business. It helps in measuring the user behavior, market and performance trends, and ROI. This analysis can be used by the business to show ROI for the campaigns and make better decisions to reduce costs, increase sales, and make business improvements accordingly.
+The consumer shopping behavior analysis is the process of discovering, interpreting, and communicating data patterns and insights related to E-commerce online business. It helps in measuring the user behavior, market and performance trends, and ROI. This analysis can be used by the business to show ROI for the campaigns and make better decisions to reduce costs, increase sales, and make business improvements accordingly.
+
+### Data Description 
+
+The dataset for this project of consumer shopping behavior analysis was obtained from a multi-category e-commerce platform available on Kaggle.
+Dataset Link: (https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
+The dataset consisted of the shopping activity of around 285 million users from an e-commerce website for over a period of 7 months i.e., from October 2019 to April 2020. The total size of data available is 30 GB, but we have used October and November data (15 GB) for our analysis. The various attributes like product ID, product category, product subcategory, price, user session ID, brand, event_type, etc. were included in the dataset describing the user shopping activity.
 
 
 
