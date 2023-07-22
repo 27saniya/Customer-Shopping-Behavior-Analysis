@@ -9,6 +9,11 @@ The goal of this project is to do an in-depth analysis of the dataset to gain in
 
 Kaggle: https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
 
+
+### ELT architecture
+
+![image](https://github.com/27saniya/Customer-Shopping-Behavior-Analysis/assets/101293878/3804e2d6-885d-4363-8e98-4b6b5fa17ebc)
+
 ### Tools used
 
 - AWS services:
@@ -16,11 +21,6 @@ Kaggle: https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-m
   - Glue: Data Transformation using Pyspark script
   - Athena: Quering using SQL
 - Tableau: Business Analytics and Data Visualizations 
-
-
-### ELT architecture
-
-![image](https://github.com/27saniya/Customer-Shopping-Behavior-Analysis/assets/101293878/3804e2d6-885d-4363-8e98-4b6b5fa17ebc)
 
 ### Dashboard
 
